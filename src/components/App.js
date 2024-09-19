@@ -3,6 +3,7 @@ import { TaskProvider } from '../context/TaskContext';
 import TaskList from './TaskList';
 import Filter from './Filter';
 import TaskForm from './TaskForm';
+import '../App.css'; 
 
 const App = () => {
   return (
